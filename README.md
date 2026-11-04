@@ -2,8 +2,7 @@
 
 A modern and fully responsive agency landing page built using React.js with Dark and Light mode support.
 
-## 🌐 Live Website
-[Visit Agency.](https://agency-dot.vercel.app)
+## 🌐 Live Website [Visit Agency.](https://agency-dot.vercel.app)
 
 ## 🚀 Features
 * Fully responsive design for mobile and desktop.
