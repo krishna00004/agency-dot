@@ -27,3 +27,6 @@ A modern and fully responsive agency landing page built using React.js with Dark
 3. Run `npm install`.
 4. Run `npm run dev`.
 5. Open the local URL in your browser.
+
+## ⚠️ Disclaimer
+This project is created for learning and educational purposes only. It is a dummy agency landing page and is not intended for production or commercial use.
