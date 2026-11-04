@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import TrustedBy from './components/TrustedBy'
 import Services from './components/Services'
 import OurWorks from './components/OurWorks'
+import Teams from './components/Teams'
 import ContactUs from './components/ContactUs'
 import { Toaster } from 'react-hot-toast'
 import Footer from './components/Footer'
@@ -25,6 +26,7 @@ export default function App() {
       <TrustedBy/>
       <Services/>
       <OurWorks/>
+      <Teams/>
       <ContactUs/>
       <Footer theme = {theme}/>
     </div>
