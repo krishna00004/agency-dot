@@ -1,4 +1,4 @@
-# Agency.ai – Responsive Landing Page
+# Agency. – Responsive Landing Page
 
 A modern and fully responsive agency landing page built using React.js with Dark and Light mode support.
 
